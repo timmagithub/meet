@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/timmagithub/meet/static/css/main.a617e044.chunk.css",
+    "main.js": "/timmagithub/meet/static/js/main.b84d8337.chunk.js",
+    "main.js.map": "/timmagithub/meet/static/js/main.b84d8337.chunk.js.map",
+    "runtime-main.js": "/timmagithub/meet/static/js/runtime-main.a62e9afc.js",
+    "runtime-main.js.map": "/timmagithub/meet/static/js/runtime-main.a62e9afc.js.map",
+    "static/js/2.9df8e2a7.chunk.js": "/timmagithub/meet/static/js/2.9df8e2a7.chunk.js",
+    "static/js/2.9df8e2a7.chunk.js.map": "/timmagithub/meet/static/js/2.9df8e2a7.chunk.js.map",
+    "static/js/3.ee38389b.chunk.js": "/timmagithub/meet/static/js/3.ee38389b.chunk.js",
+    "static/js/3.ee38389b.chunk.js.map": "/timmagithub/meet/static/js/3.ee38389b.chunk.js.map",
+    "index.html": "/timmagithub/meet/index.html",
+    "service-worker.js": "/timmagithub/meet/service-worker.js",
+    "service-worker.js.map": "/timmagithub/meet/service-worker.js.map",
+    "static/css/main.a617e044.chunk.css.map": "/timmagithub/meet/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9df8e2a7.chunk.js.LICENSE.txt": "/timmagithub/meet/static/js/2.9df8e2a7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/timmagithub/meet/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a62e9afc.js",
+    "static/js/2.9df8e2a7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b84d8337.chunk.js"
+  ]
+}
