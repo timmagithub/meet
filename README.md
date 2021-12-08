@@ -14,16 +14,17 @@
     <li>Chart showing the number of upcoming events by city</li>
 
 <h4>User Stories</h4>
-   
+   <p>
     Feature 1
         Sc 1. 
             --As a user, I should be able to see events from all cities so I can begin my search with all options available.
             --Given a user hasn't searched for a city-When the user opens the app-Then the user should see all upcoming events
-
+    </p>
+    <p>
         Sc 2. 
             --As a user, I should be able to see city suggestions once I start typing so that I am able to select one from the list.
             --Given the main page is open-When the user starts typing in the city textbox-Then user should see list of suggestions that match what they've typed
-
+    </p>
         Sc 3. 
             --As a user, I should be able to pick a city from a list so that I can save time and avoid spelling errors.
             --Given the user begins typing a city name-When they select the city they want-Then the user's city should be updated to the one selected
