@@ -16,6 +16,8 @@
 <h4>User Stories</h4>
    <p>
     Feature 1
+    </p>
+    <p>
         Sc 1. 
             --As a user, I should be able to see events from all cities so I can begin my search with all options available.
             --Given a user hasn't searched for a city-When the user opens the app-Then the user should see all upcoming events
