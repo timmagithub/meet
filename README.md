@@ -13,11 +13,8 @@
     <li>Add app shortcut to home screen</li>
     <li>Chart showing the number of upcoming events by city</li>
 
-
-
-
-<h6>User Stories</h6>
-    <p>
+<h4>User Stories</h4>
+   
     Feature 1
         Sc 1. 
             --As a user, I should be able to see events from all cities so I can begin my search with all options available.
@@ -66,5 +63,4 @@
         Sc 1. 
             --As a user, I should be able to access a chart sorting the number of events by city so that I can find events I want to go to in cities I'll be in.
             --Given the user is trying to find out how many events are in each city-When they access the chart-Then a chart with the number of events per city. 
-</p>
 
